@@ -2,6 +2,10 @@
 
 [DEMO](https://wfurs0w.github.io/angular-admin-panel/)
 
+### To login use:
+- mail: admin@gmail.com
+- password: admin123
+
 In this project, a login page and an admin panel with asynchronous loading of a list of employees were created on the [Angular](https://angular.io/) framework.
 
 ## Technologies used:
@@ -26,8 +30,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Run `ng serve` for a dev server;
 - Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-### To login use:
-
-mail: admin@gmail.com
-password: admin123
 
