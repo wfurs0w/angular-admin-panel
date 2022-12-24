@@ -1,5 +1,7 @@
 # Angular Admin Panel
 
+[DEMO](https://wfurs0w.github.io/angular-admin-panel/)
+
 In this project, a login page and an admin panel with asynchronous loading of a list of employees were created on the [Angular](https://angular.io/) framework.
 
 ## Technologies used:
